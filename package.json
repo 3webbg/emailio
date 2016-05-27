@@ -1,0 +1,24 @@
+{
+  "name": "emailio-test",
+  "version": "1.0.0",
+  "description": "emailio-test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "jshint": "jshint routes/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bell": "^7.2.0",
+    "good": "^6.6.0",
+    "good-console": "^5.3.1",
+    "good-file": "^5.1.2",
+    "googleapis": "^3.0.0",
+    "hapi": "^13.2.1",
+    "mongoose": "^4.4.5",
+    "rewire": "^2.5.1",
+    "underscore": "^1.8.3"
+  }
+}

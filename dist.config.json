@@ -1,0 +1,7 @@
+{
+  "app_id": "xxxxxxxxxxxxx",
+  "app_secret": "xxxxxxxxxxxxx",
+  "port": 5000,
+  "host": "localhost",
+  "protocol": "http"
+}
